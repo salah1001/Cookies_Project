@@ -61,8 +61,6 @@ The orders table contains transactional data on cookie purchases:
 - Quantity Sold
 - Order Date
 
-![Orders Table](image/Orders.png)
-
 M(Orders[Quantity] * Cookies[Price])
 📂 Pages and Navigation
 The Power BI Dashboard is organized with page navigation to help users explore different aspects of the cookie sales data:
